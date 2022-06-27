@@ -1,3 +1,5 @@
+//Kalkulator kredytów hipotecznych - Oblicza miesięczne płatności kredytu hipotecznego na czas określony w podanych warunkach przy danej stopie procentowej. Dowiemy się również, ile czasu zajmie użytkownikowi spłata pożyczki.
+
 import java.util.Scanner;
 
 public class Main {
